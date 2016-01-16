@@ -1,0 +1,6 @@
+Honda
+ninja
+blanco
+37
+2015-10-13
+false

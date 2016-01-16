@@ -1,0 +1,34 @@
+Para registrar clientes, en el menú principal acceda a la opción 3, Alquilar un vehículo, y al introducir su DNI accederá directamente al registro
+Para guardar productos, en el menú principal acceda a la opción 1, Añadir vehículo, y se iniciara un dialogo para registrar el vehículo.
+Para crear un alquiler, en el menú principal acceda a la opción 3, Alquilar un vehículo, y una vez introducidos sus datos se iniciara el alquiler
+Para poder visualizar los clientes, acceda al panel de clientes e inicie sesión como administrador usando su cuenta de administrador, después seleccione la opción 1.
+Para poder visualizar los vehículos, acceda en el menú principal a la opción 2, Obtener datos de los vehículos, se mostrará una lista con los vehículos registrados, a continuación seleccione la matricula del vehículo de su interés.
+Para visualizar los alquileres tiene que acceder al panel de cliente y una vez ahí seleccione la opción 4. Tambien puede ver los alquileres seleccionando la opción 1 en el panel de aadministración
+Para acceder al panel de clientes, acceda en el menú principal a la opción 4, panel de cliente, y a continuación inicie sesión con su DNI.
+Para poder editar los datos de un cliente, acceda al panel de cliente e inicie sesión con el DNI asociado a su cuenta de usuario, seleccione la opción: editar datos personales.
+Para poder editar un vehículo, en el panel de administración, acceda a la opción 4 Editar vehículo. (Solo podrá editar vehículos no alquilados, que se mostraran en verde)
+Para poder editar un alquiler, acceda a la opción 4 del menú principal, panel de cliente, seleccione la opción alquileres.
+Sentimos informarle de que la eliminación de un cliente no es posible. Para mas información contacte con el desarrollador.
+Para poder eliminar un vehículo, en el panel de administración 4, Editar vehículo, ingrese la matricula del vehículo que desea eliminar Y presione (e). (solo podrá eliminar las matriculas que se encuentren disponibles)
+Para poder eliminar un alquiler, en el panel de cliente, inicie sesión con su numero de DNI asociaa su cuenta, seleccione la opción alquileres, a continuación se mostrara una lista con todos los alquileres activos, ingrese el numero del vehículo que desea eliminar, presione la tecla (b). (solo podrá eliminar los alquileres asociados a su numero de cliente)
+En caso de que no sea posible añadir un cliente, compruebe que todos los datos introducidos son correctos, en caso de ser así, reinicie el programa para actualizar la base de datos.
+En caso de que no sea posible añadir un vehículo,compruebe que todos los datos introducidos son correctos, en caso de ser así, reinicie el programa para actualizar la base de datos.
+En caso de que no sea posible añadir un alquiler, compruebe que todos los datos introducidos son correctos, en do caso de ser así, reinicie el programa para actualizar la base de datos.
+Para poder ver los clientes tiene que  estar en el panel de adminisitrador y asegurarse que hay algun cliente a mostrar. en caso de que el problema persista contacte con el desarrollador.
+Para poder ver los vehiculos, asegurese de que existe algun vehiculo. en caso afirmativo reinicie el programa para ejecutar las comprobaciones pertinentes.
+Para poder ver los alquileres, asegurese de tener algun alquiler, en caso afirmativo reinicie el programa para ejecutar las comprobaciones pertinentes.
+Para poder editar un cliente debe entrar en el panel de cliente con su dni, y seleccione la opcion 1, editar datos personales. 
+Para poder editar un vehículo, compruebe que está registrado previamente en el sistema y no esta alquilado. De no ser posible, contacte con el desarrollador del programa.
+Para poder editar un alquiler, es necesario que este alquiler todavia no empezara, en caso de que el problema persista contacte con el desarrollador.
+En caso de no poder acceder al panel, reinicie el programa para que se realicen las revisiones pertinentes, si el problema persiste contacte con el desarrollador del programa.
+Para acceder al modo de administrador, en el menú principal seleccione la opción 4,panel de cliente e inicie sesión con su cuenta de administrador.
+El DNI es usado en este programa como indice a la hora de almacenar los datos, y por ahora no se a implementado el sistema de protección de datos que permita cambiar el DNI sin modificar los datos de otros usuarios
+Para poder contactar con el desarollador, puede enviar un correo a miguel@tunegociointernet.com o con el formulario que se le ofrece a contiunación.
+En caso de no poder contactar con el desarrollador, compruebe que los datos estan correctos y que este conectado a internet. En caso de que el problema persista intentelo mas tarde.
+Para poder contactar con el administrador, acceda al menu de cliente y seleccione la opción 5. Tambien puede enviar un mensaje con el formulario ofrecido a continuación.
+En caso de no poder contactar con el administrador, reinicie el programa para realizar las resolucciones pertinentes. Sí el problema persiste contacte con el desarrollador.
+En caso de no poder eliminar un vehiculo es posible que el vehiculo este alquilado en esas fechas, compruebe q no esta alquilado. En caso de que el problema persista es posible que ya este borrado, reinicie el programa para realizar las reparaciones pertinentes y ya deberia estar soluccionado. Sí aun persiste contacte con el administrador.
+En caso de que no pueda eliminar un alquiler compruebe que el alquiler no esté ya iniciado. En caso de que el problema persista es posible que ya este borrado, reinicie el programa para realizar las reparaciones pertinentes y ya deberia estar soluccionado. Sí aun persiste contacte con el administrador.
+Claramente Javi, no se como es que lo dudas y menos porque me lo preguntas.
+Mi diseñador y programador es Miguel Pazos Bodelo junto con Emiliano Franco.
+::END::
